@@ -1,0 +1,5 @@
+﻿cmd,desc
+"create (n:Student{name: ""Bill"",age:19}) return n;",basic
+"create (n:Student:Teacher{name: ""Tim"",age:29}) return n;",basic
+match (n:Student) return n;,basic
+"match (d:Student) return d.name,d.age;",basic
