@@ -1,2 +1,2 @@
 id;name;targetset
-1;neo;["create (n:Student{name: ""Bill"",age:19}) return n","create (n:Student:Teacher{name: ""Tim"",age:29}) return n,"match (n:Student) return n,"match (d:Student) return d.name,d.age"]
+1;"neo";["create (n:Student{name: ""Bill"",age:19}) return n","create (n:Student:Teacher{name: ""Tim"",age:29}) return n,"match (n:Student) return n,"match (d:Student) return d.name,d.age"]
