@@ -1,5 +1,3 @@
-﻿cmd,desc
-"create (n:Student{name: ""Bill"",age:19}) return n;",basic
-"create (n:Student:Teacher{name: ""Tim"",age:29}) return n;",basic
-match (n:Student) return n;,basic
-"match (d:Student) return d.name,d.age;",basic
+id;name;targetset
+1;"somenode",[1,3,5,8]
+2,"someothernode",[3,8]
