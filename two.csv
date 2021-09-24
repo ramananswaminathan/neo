@@ -1,0 +1,2 @@
+id;name;cmdset
+1;"vi1";["https://linuxize.com/post/vim-find-replace/", ":[range]s/{pattern}/{string}/[flags] [count]", ":s/foo/bar/", ":s/foo/bar/g", ":s/foo//g", ":s|foo|bar|", ":s/foo/bar/gc", ":s/Foo/bar/gi", ":3,10s/foo/bar/g", ":.,$s/foo/bar/", ":.,+4s/foo/bar/g", ":s/\<foo\>/bar/", ":5,20s/^/#/", ":5,20s/^#//", ":%s/apple\|orange\|mango/fruit/g", ":%s/\s\+$//e", ]
